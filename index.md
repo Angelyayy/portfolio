@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is Angel Kayna Bulatao
+Hi! My name is Angel
 
 ### Development Environment
 
