@@ -101,8 +101,8 @@ Flags are made using Wikipedia images
 
 Here is the places I have been
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
+- 🇵🇭 Hundred Islands located in the Philippines
+- ⛪ Paradise Valley Seventh Adventist Church National City CA
 - 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
 - ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
 - 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
