@@ -100,8 +100,8 @@ Here is the places I have been
 
 - 🇵🇭 Hundred Islands located in the Philippines
 - ⛪ Paradise Valley Seventh Adventist Church National City CA
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
+- 🐬 Seaworld an aquarium located in San Diego
+- 🇹🇭 Bangkok located in Thailand
 - 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
 - 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
 - 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
